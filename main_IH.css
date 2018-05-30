@@ -1,0 +1,106 @@
+body{
+	background: #17202A;
+}
+
+table{
+	width: 100%;
+	border-collapse: collapse;
+	border-spacing: 10px;
+}	
+
+table, th, td{
+	padding: 5px;
+	border: 1px solid black;
+	text-align: center;
+	background: #D8D8D8
+}
+
+#tableAREAWrapper {
+	position:relative;
+	width:75%;
+	height: 400px;
+}
+
+#tableAREAScroll {
+  	height:400px;
+  	overflow:auto;  
+	margin-top:20px;
+}
+
+#tableSAFETYWrapper {
+  position:relative;
+  width:75%;
+  height: 400px;
+}
+
+#tableTOP10DISTANCEWrapper {
+  position:relative;
+  width:75%;
+  height: 400px;
+}
+
+#tableTOP10DISTANCE_2Wrapper {
+  position:relative;
+  width:75%;
+  height: 400px;
+}
+
+#tableSAFETYScroll {
+  height:400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#tableHOUSINGWrapper {
+  position:relative;
+  width:75%;
+  height: 400px;
+}
+
+#tableHOUSINGScroll {
+  height:400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#tableTOP10DISTANCEScroll {
+  height:400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#tableTOP10DISTANCE_2Scroll {
+  height:400px;
+  overflow:auto;  
+  margin-top:20px;
+}
+
+#googleMapContainer	{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	width: 100%;
+	height: 500px;
+}
+
+button {
+	margin-top: 60px;
+}
+
+#top3 {
+	margin-top: 80px;
+}
+
+#museum {
+	margin-top: 80px;
+}
+
+#eliminateAllMarkers {
+	margin-top: 80px;	
+}
+
+svg{
+	margin-top:20px;
+	margin-left:230px;
+	margin-bottom:20px;
+	border-bottom-style:inset;
+}
